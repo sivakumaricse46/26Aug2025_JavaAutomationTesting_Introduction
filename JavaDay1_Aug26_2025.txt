@@ -1,0 +1,22 @@
+Java: Java is a programming language that helps developers build software application's, It follows an object -oriented approach meaning it organizes code into reusable objects.
+
+Types of programming languages: 
+Structed Programming languages: use a logical flow of commands - C, Python
+Object-Based programming languages: supports classes and objects but not inheritance - python, VBScript
+Object-Oriented programming: C++,Java, C# and python
+
+OOP: Class, object, polymorphism, Inheritance, Abstraction and Encapsulation. 
+
+Java features: 
+Platform independence: java can run on any device with JRE.
+Case Sensitive: different as upper and lower case letters.
+
+Java components: 
+JDK: tools for developing applications
+JRE: needed to run java applications
+JVM: runs java code on your device
+
+JDK installation: 
+ Download and install jdk and set java path, verify the version in cmd.
+
+
