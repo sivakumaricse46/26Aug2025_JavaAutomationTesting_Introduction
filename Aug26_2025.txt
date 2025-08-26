@@ -1,0 +1,78 @@
+Software Testing: The process of identifying defects in software to ensure quality before releasing it to customers
+
+Manual Testing: Testing carried out by manually by a human tester without the use of automation tools.
+ Types:
+    Re-Testing: Testing the same functionality after defects have been fixed.
+    Regression Testing: Testing to ensure that new changes do not negatively affect existing functionality.
+
+Challenges: 
+ Time: Manual testing is often slow
+ Effort: It requires considerable human effort
+
+
+Automation Testing: Testing that uses automation tools to executes tests.
+          Key points: Automation tools require scripts, written in programming languages, to define and execute tests. Programming is essential to automate test cases, handle complex scenarios,  and integrate with other testing tools.
+
+Selenium: Selenium is a popular open-source tool for automation web applications. 
+Selenium was originally developed by Jason Huggins in 2004  at Thoughtwokrs.
+
+Features: 
+ Open source: Free to use and modify.
+ Components: 
+   IDE: For Creating test cases
+   WebDriver: Programming interface to create and execute browser-based automation scripts.
+   Grid: Allows running tests on different machines and browsers simultaneously. 
+
+Types of applications: 3 types
+Desktop applications: word, PowerPoint
+Web applications: URL based applications
+Mobile applications: mobile devices like smart phones and tablets
+
+Advantages of Selenium: 
+ Open Source and free: No licensing costs
+ Cross-platform support: Works on multiple operating systems
+ Browser compatibility: Many browsers(Chrome, Firefox and Edge).
+Multi language support: various programming languages(python, C#, Ruby, JavaScript)
+Integration: Can be integrated third party too;s for enhanced functionality.
+
+Disadvantages of selenium: 
+Limited Support for windows based applications: Required additional tools like Autolt, Robot API and Sikuli.
+No native reporting: Need external tools TestNG or Extent reports for reporting. 
+Cannot Directly handle Excel files: Require libraries like Apache POI.
+Limited Support for Complex UI elements: Struggles with handling graphs and CAPTCHA.
+
+Selenium Versions: 
+Selenium 1.x: Included IDE(Firefox), RC(Remote control), Grid.
+Selenium 2.x: Included IDE(Firefox), webDriver, Grid
+Selenium 3.x: Included IDE(Firefox, Chrome), webDriver, Grid
+Selenium 4.x: Included IDE(Firefox, Chrome, Edge), webDriver, Grid
+Latest verion: Selenium 4.23.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
